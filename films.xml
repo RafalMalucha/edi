@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<films>
+    <film category="Action">
+        <title category="Does not start with letter 'J'">Venom: Let there be Carnage</title>
+        <genere>Action / Sci-Fi</genere>
+        <year>2021</year>
+        <personal_rating>8/10</personal_rating>
+        <director>Andy Serkis</director>
+        <actors>Tom Hardy, Woody Harrelson</actors>
+    </film>
+    <film category="Action">
+        <title category="Starts with letter 'J'">John Wick</title>
+        <genere>Action / Neo-noir</genere>
+        <year>2014</year>
+        <personal_rating>9/10</personal_rating>
+        <director>Chad Stahelski</director>
+        <actors>Keanu Reeves, Ian McShane</actors>
+    </film>
+    <film category="Action">
+        <title category="Starts with letter 'J'">John Wick: Chapter 2</title>
+        <genere>Action / Thriller</genere>
+        <year>2017</year>
+        <personal_rating>9/10</personal_rating>
+        <director>Chad Stahelski</director>
+        <actors>Keanu Reeves, Laurence Fishburne</actors>
+    </film>
+    <film category="Action">
+        <title category="Starts with letter 'J'">John Wick: Chapter 3 - Parabellum</title>
+        <genere>Action / Thriller</genere>
+        <year>2019</year>
+        <personal_rating>9/10</personal_rating>
+        <director>Chad Stahelski</director>
+        <actors>Keanu Reeves, Halle Berry</actors>
+    </film>
+    <film category="Sci-Fi">
+        <title category="Does not start with letter 'J'">Star Wars: Revenge of the Sith</title>
+        <genere>Sci-Fi / Action</genere>
+        <year>2005</year>
+        <personal_rating>8.5/10</personal_rating>
+        <director>George Lucas</director>
+        <actors>Ewan McGregor, Hayden Christensen</actors>
+    </film>
+</films>

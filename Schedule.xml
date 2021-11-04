@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plan-zajec typ="G" id="190171" nazwa="ZZISS1-1112" od="2021-11-04" do="2021-11-18">
+    <okres od="2021-11-04" do="2021-11-18" nazwa="2021-11-04 do 2021-11-18" wybrany="tak"/>
+    <okres od="2021-10-01" do="2022-02-14" nazwa="2021-10-01 do 2022-02-14"/>
+    <okres od="2021-10-01" do="2022-09-30" nazwa="2021-10-01 do 2022-09-30"/>
+    <okres od="2020-09-29" do="2021-09-30" nazwa="2020-09-29 do 2021-09-30"/>
+    <zajecia>
+        <termin>2021-11-04</termin>
+        <dzien>Cz</dzien>
+        <od-godz>08:00</od-godz>
+        <do-godz>09:30 (2g.)</do-godz>
+        <przedmiot>Architektura systemów komputerowych</przedmiot>
+        <typ>wykład</typ>
+        <nauczyciel moodle="-891">dr Jan Madej</nauczyciel>
+        <sala><a href="https://services.uek.krakow.pl/schedule/class/4977318"> link do zajęć zdalnych</a></sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-04</termin>
+        <dzien>Cz</dzien>
+        <od-godz>15:00</od-godz>
+        <do-godz>16:30 (2g.)</do-godz>
+        <przedmiot>Organizacja i zarządzanie</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-18357">mgr Ireneusz Rynduch</nauczyciel>
+        <sala>Paw.F 104</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-04</termin>
+        <dzien>Cz</dzien>
+        <od-godz>16:45</od-godz>
+        <do-godz>18:15 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-04</termin>
+        <dzien>Cz</dzien>
+        <od-godz>18:30</od-godz>
+        <do-godz>21:00 (3g.)</do-godz>
+        <przedmiot>Elektroniczna wymiana danych</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-443">prof. UEK dr hab. Grażyna Paliwoda-Pękosz</nauczyciel>
+        <sala>Paw.A 115 lab.Win8.1, Office16</sala>
+        </zajecia>
+        <zajecia>
+        <termin>2021-11-05</termin>
+        <dzien>Pt</dzien>
+        <od-godz>08:00</od-godz>
+        <do-godz>09:30 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-05</termin>
+        <dzien>Pt</dzien>
+        <od-godz>11:30</od-godz>
+        <do-godz>13:00 (2g.)</do-godz>
+        <przedmiot>Elektroniczna wymiana danych</przedmiot>
+        <typ>wykład</typ>
+        <nauczyciel moodle="-443">prof. UEK dr hab. Grażyna Paliwoda-Pękosz</nauczyciel>
+        <sala><a href="https://services.uek.krakow.pl/schedule/class/4977305"> link do zajęć zdalnych</a></sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-05</termin>
+        <dzien>Pt</dzien>
+        <od-godz>13:15</od-godz>
+        <do-godz>14:45 (2g.)</do-godz>
+        <przedmiot>Organizacja i zarządzanie</przedmiot>
+        <typ>wykład</typ>
+        <nauczyciel moodle="-936">prof. UEK dr hab. Małgorzata Tyrańska</nauczyciel>
+        <sala><a href="https://services.uek.krakow.pl/schedule/class/4977182"> link do zajęć zdalnych</a></sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-05</termin>
+        <dzien>Pt</dzien>
+        <od-godz>15:00</od-godz>
+        <do-godz>16:30 (2g.)</do-godz>
+        <przedmiot>Teoretyczne podstawy informatyki</przedmiot>
+        <typ>wykład</typ>
+        <nauczyciel moodle="-892">prof.UEK dr hab.inż. Janusz Morajda</nauczyciel>
+        <sala><a href="https://services.uek.krakow.pl/schedule/class/4977241"> link do zajęć zdalnych</a></sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-08</termin>
+        <dzien>Pn</dzien>
+        <od-godz>08:00</od-godz>
+        <do-godz>09:30 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-08</termin>
+        <dzien>Pn</dzien>
+        <od-godz>11:30</od-godz>
+        <do-godz>13:00 (2g.)</do-godz>
+        <przedmiot>Teoretyczne podstawy informatyki</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-1043">mgr Katarzyna Wójcik</nauczyciel>
+        <sala>Paw.A 014 lab. Win8.1 Office16</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-08</termin>
+        <dzien>Pn</dzien>
+        <od-godz>13:15</od-godz>
+        <do-godz>14:45 (2g.)</do-godz>
+        <przedmiot>Wprowadzenie do matematyki</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-500">dr Ilona Ćwięczek</nauczyciel>
+        <sala>Paw.F 104</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-09</termin>
+        <dzien>Wt</dzien>
+        <od-godz>11:30</od-godz>
+        <do-godz>13:00 (2g.)</do-godz>
+        <przedmiot>Wprowadzenie do matematyki</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-500">dr Ilona Ćwięczek</nauczyciel>
+        <sala>Paw.F 104</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-09</termin>
+        <dzien>Wt</dzien>
+        <od-godz>13:15</od-godz>
+        <do-godz>14:45 (2g.)</do-godz>
+        <przedmiot>Architektura systemów komputerowych</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-891">dr Jan Madej</nauczyciel>
+        <sala>Paw.A 301a lab.Win10, Office16</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-09</termin>
+        <dzien>Wt</dzien>
+        <od-godz>16:45</od-godz>
+        <do-godz>18:15 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-10</termin>
+        <dzien>Śr</dzien>
+        <od-godz>09:45</od-godz>
+        <do-godz>11:15 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-10</termin>
+        <dzien>Śr</dzien>
+        <od-godz>15:00</od-godz>
+        <do-godz>16:30 (2g.)</do-godz>
+        <przedmiot>Pracownia programowania I</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-218">prof. UEK dr hab. Janusz Stal</nauczyciel>
+        <sala>Paw.A 014 lab. Win8.1 Office16</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-15</termin>
+        <dzien>Pn</dzien>
+        <od-godz>08:00</od-godz>
+        <do-godz>09:30 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-15</termin>
+        <dzien>Pn</dzien>
+        <od-godz>11:30</od-godz>
+        <do-godz>13:00 (2g.)</do-godz>
+        <przedmiot>Teoretyczne podstawy informatyki</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-1043">mgr Katarzyna Wójcik</nauczyciel>
+        <sala>Paw.A 014 lab. Win8.1 Office16</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-15</termin>
+        <dzien>Pn</dzien>
+        <od-godz>13:15</od-godz>
+        <do-godz>14:45 (2g.)</do-godz>
+        <przedmiot>Wprowadzenie do matematyki</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-500">dr Ilona Ćwięczek</nauczyciel>
+        <sala>Paw.F 104</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-16</termin>
+        <dzien>Wt</dzien>
+        <od-godz>11:30</od-godz>
+        <do-godz>13:00 (2g.)</do-godz>
+        <przedmiot>Wprowadzenie do matematyki</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-500">dr Ilona Ćwięczek</nauczyciel>
+        <sala>Paw.F 104</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-16</termin>
+        <dzien>Wt</dzien>
+        <od-godz>16:45</od-godz>
+        <do-godz>18:15 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-17</termin>
+        <dzien>Śr</dzien>
+        <od-godz>09:45</od-godz>
+        <do-godz>11:15 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-17</termin>
+        <dzien>Śr</dzien>
+        <od-godz>15:00</od-godz>
+        <do-godz>16:30 (2g.)</do-godz>
+        <przedmiot>Pracownia programowania I</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-218">prof. UEK dr hab. Janusz Stal</nauczyciel>
+        <sala>Paw.A 014 lab. Win8.1 Office16</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-18</termin>
+        <dzien>Cz</dzien>
+        <od-godz>08:00</od-godz>
+        <do-godz>09:30 (2g.)</do-godz>
+        <przedmiot>Architektura systemów komputerowych</przedmiot>
+        <typ>wykład</typ>
+        <nauczyciel moodle="-891">dr Jan Madej</nauczyciel>
+        <sala><a href="https://services.uek.krakow.pl/schedule/class/4977319"> link do zajęć zdalnych</a></sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-18</termin>
+        <dzien>Cz</dzien>
+        <od-godz>15:00</od-godz>
+        <do-godz>16:30 (2g.)</do-godz>
+        <przedmiot>Organizacja i zarządzanie</przedmiot>
+        <typ>ćwiczenia</typ>
+        <nauczyciel moodle="-18357">mgr Ireneusz Rynduch</nauczyciel>
+        <sala>Paw.F 104</sala>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-18</termin>
+        <dzien>Cz</dzien>
+        <od-godz>16:45</od-godz>
+        <do-godz>18:15 (2g.)</do-godz>
+        <przedmiot>Język obcy 2.1 - grupa przedmiotów</przedmiot>
+        <typ>lektorat</typ>
+        <nauczyciel> Językowe Centrum</nauczyciel>
+        <sala/>
+        <uwagi>https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514</uwagi>
+    </zajecia>
+    <zajecia>
+        <termin>2021-11-18</termin>
+        <dzien>Cz</dzien>
+        <od-godz>18:30</od-godz>
+        <do-godz>21:00 (3g.)</do-godz>
+        <przedmiot>Elektroniczna wymiana danych</przedmiot>
+        <typ>Ćwiczenia e - learningowe</typ>
+        <nauczyciel moodle="-443">prof. UEK dr hab. Grażyna Paliwoda-Pękosz</nauczyciel>
+        <sala>Platforma Moodle</sala>
+    </zajecia>
+</plan-zajec>

@@ -1,0 +1,301 @@
+{
+  "plan-zajec": {
+    "okres": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "zajecia": [
+      {
+        "termin": "2021-11-04",
+        "dzien": "Cz",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Architektura systemów komputerowych",
+        "typ": "wykład",
+        "nauczyciel": "dr Jan Madej",
+        "sala": {
+          "a": "link do zajęć zdalnych"
+        }
+      },
+      {
+        "termin": "2021-11-04",
+        "dzien": "Cz",
+        "od-godz": "15:00",
+        "do-godz": "16:30 (2g.)",
+        "przedmiot": "Organizacja i zarządzanie",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Ireneusz Rynduch",
+        "sala": "Paw.F 104"
+      },
+      {
+        "termin": "2021-11-04",
+        "dzien": "Cz",
+        "od-godz": "16:45",
+        "do-godz": "18:15 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-04",
+        "dzien": "Cz",
+        "od-godz": "18:30",
+        "do-godz": "21:00 (3g.)",
+        "przedmiot": "Elektroniczna wymiana danych",
+        "typ": "ćwiczenia",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Paw.A 115 lab.Win8.1, Office16"
+      },
+      {
+        "termin": "2021-11-05",
+        "dzien": "Pt",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-05",
+        "dzien": "Pt",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "Elektroniczna wymiana danych",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": {
+          "a": "link do zajęć zdalnych"
+        }
+      },
+      {
+        "termin": "2021-11-05",
+        "dzien": "Pt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Organizacja i zarządzanie",
+        "typ": "wykład",
+        "nauczyciel": "prof. UEK dr hab. Małgorzata Tyrańska",
+        "sala": {
+          "a": "link do zajęć zdalnych"
+        }
+      },
+      {
+        "termin": "2021-11-05",
+        "dzien": "Pt",
+        "od-godz": "15:00",
+        "do-godz": "16:30 (2g.)",
+        "przedmiot": "Teoretyczne podstawy informatyki",
+        "typ": "wykład",
+        "nauczyciel": "prof.UEK dr hab.inż. Janusz Morajda",
+        "sala": {
+          "a": "link do zajęć zdalnych"
+        }
+      },
+      {
+        "termin": "2021-11-08",
+        "dzien": "Pn",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-08",
+        "dzien": "Pn",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "Teoretyczne podstawy informatyki",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Katarzyna Wójcik",
+        "sala": "Paw.A 014 lab. Win8.1 Office16"
+      },
+      {
+        "termin": "2021-11-08",
+        "dzien": "Pn",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Wprowadzenie do matematyki",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Ilona Ćwięczek",
+        "sala": "Paw.F 104"
+      },
+      {
+        "termin": "2021-11-09",
+        "dzien": "Wt",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "Wprowadzenie do matematyki",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Ilona Ćwięczek",
+        "sala": "Paw.F 104"
+      },
+      {
+        "termin": "2021-11-09",
+        "dzien": "Wt",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Architektura systemów komputerowych",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Jan Madej",
+        "sala": "Paw.A 301a lab.Win10, Office16"
+      },
+      {
+        "termin": "2021-11-09",
+        "dzien": "Wt",
+        "od-godz": "16:45",
+        "do-godz": "18:15 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-10",
+        "dzien": "Śr",
+        "od-godz": "09:45",
+        "do-godz": "11:15 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-10",
+        "dzien": "Śr",
+        "od-godz": "15:00",
+        "do-godz": "16:30 (2g.)",
+        "przedmiot": "Pracownia programowania I",
+        "typ": "ćwiczenia",
+        "nauczyciel": "prof. UEK dr hab. Janusz Stal",
+        "sala": "Paw.A 014 lab. Win8.1 Office16"
+      },
+      {
+        "termin": "2021-11-15",
+        "dzien": "Pn",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-15",
+        "dzien": "Pn",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "Teoretyczne podstawy informatyki",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Katarzyna Wójcik",
+        "sala": "Paw.A 014 lab. Win8.1 Office16"
+      },
+      {
+        "termin": "2021-11-15",
+        "dzien": "Pn",
+        "od-godz": "13:15",
+        "do-godz": "14:45 (2g.)",
+        "przedmiot": "Wprowadzenie do matematyki",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Ilona Ćwięczek",
+        "sala": "Paw.F 104"
+      },
+      {
+        "termin": "2021-11-16",
+        "dzien": "Wt",
+        "od-godz": "11:30",
+        "do-godz": "13:00 (2g.)",
+        "przedmiot": "Wprowadzenie do matematyki",
+        "typ": "ćwiczenia",
+        "nauczyciel": "dr Ilona Ćwięczek",
+        "sala": "Paw.F 104"
+      },
+      {
+        "termin": "2021-11-16",
+        "dzien": "Wt",
+        "od-godz": "16:45",
+        "do-godz": "18:15 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-17",
+        "dzien": "Śr",
+        "od-godz": "09:45",
+        "do-godz": "11:15 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-17",
+        "dzien": "Śr",
+        "od-godz": "15:00",
+        "do-godz": "16:30 (2g.)",
+        "przedmiot": "Pracownia programowania I",
+        "typ": "ćwiczenia",
+        "nauczyciel": "prof. UEK dr hab. Janusz Stal",
+        "sala": "Paw.A 014 lab. Win8.1 Office16"
+      },
+      {
+        "termin": "2021-11-18",
+        "dzien": "Cz",
+        "od-godz": "08:00",
+        "do-godz": "09:30 (2g.)",
+        "przedmiot": "Architektura systemów komputerowych",
+        "typ": "wykład",
+        "nauczyciel": "dr Jan Madej",
+        "sala": {
+          "a": "link do zajęć zdalnych"
+        }
+      },
+      {
+        "termin": "2021-11-18",
+        "dzien": "Cz",
+        "od-godz": "15:00",
+        "do-godz": "16:30 (2g.)",
+        "przedmiot": "Organizacja i zarządzanie",
+        "typ": "ćwiczenia",
+        "nauczyciel": "mgr Ireneusz Rynduch",
+        "sala": "Paw.F 104"
+      },
+      {
+        "termin": "2021-11-18",
+        "dzien": "Cz",
+        "od-godz": "16:45",
+        "do-godz": "18:15 (2g.)",
+        "przedmiot": "Język obcy 2.1 - grupa przedmiotów",
+        "typ": "lektorat",
+        "nauczyciel": "Językowe Centrum",
+        "sala": "",
+        "uwagi": "https://cj.uek.krakow.pl/site/newsy/zobacz/id/1514"
+      },
+      {
+        "termin": "2021-11-18",
+        "dzien": "Cz",
+        "od-godz": "18:30",
+        "do-godz": "21:00 (3g.)",
+        "przedmiot": "Elektroniczna wymiana danych",
+        "typ": "Ćwiczenia e - learningowe",
+        "nauczyciel": "prof. UEK dr hab. Grażyna Paliwoda-Pękosz",
+        "sala": "Platforma Moodle"
+      }
+    ]
+  }
+}
